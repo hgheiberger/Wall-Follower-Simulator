@@ -118,10 +118,6 @@ class WallFollower:
         # Publishes message
         self.pub.publish(drive_command_stamped)
 
-        
-        
-
-
 
 
 if __name__ == "__main__":
